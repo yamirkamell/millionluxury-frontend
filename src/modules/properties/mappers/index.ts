@@ -1,0 +1,1 @@
+export { PropertyMapper } from './propertyMapper';
